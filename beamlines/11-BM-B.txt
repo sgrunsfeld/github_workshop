@@ -1,0 +1,6 @@
+Disciplines: Chemistry, Environmental Science, Materials Science, Physics
+Techniques: Powder diffraction
+Energy range: 20-32 keV
+Access: On-site, Remote, Mail-in
+Operator: XSD
+Status: Yellow
