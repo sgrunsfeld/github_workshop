@@ -1,0 +1,6 @@
+Disciplines: Chemistry, Environmental Science, Materials Science, Physics
+Techniques: X-ray absorption fine structure, Time-resolved x-ray absorption fine structure, Microfluorescence, X-ray photoemission spectroscopy, X-ray emission spectroscopy
+Energy range: 4.8-32 keV, 15-65 keV
+Access: On-site, Remote, Mail-in, Observer, Beamline staff
+Operator: MR-CAT
+Status: Yellow
