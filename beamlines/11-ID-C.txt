@@ -1,0 +1,6 @@
+Disciplines: Catalysis, Chemistry, Materials Science, Physics
+Techniques: High-energy x-ray diffraction, Diffuse x-ray scattering, X-ray total scattering, Pair distribution function, Grazing incidence diffraction
+Energy range: 106 keV
+Access: On-site, Remote
+Operator: XSD
+Status: Red
