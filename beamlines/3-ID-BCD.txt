@@ -1,0 +1,6 @@
+Disciplines: Chemistry, GeoScience, Life Sciences, Materials Science, Physics
+Techniques: Nuclear resonant scattering, Inelastic x-ray scattering (1 meV resolution), High-pressure diamond anvil cell, Powder diffraction
+Energy range: 7-27 keV, 9.39-9.42 keV, 14.4-14.42 keV, 21.53-21.55 keV, 25.64-25.66 keV
+Access: On-site
+Operator: XSD
+Status: Green
