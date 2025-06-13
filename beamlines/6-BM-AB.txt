@@ -1,0 +1,6 @@
+Disciplines: GeoScience, Materials Science
+Techniques: Energy dispersive x-ray diffraction, High-pressure multi-anvil press, Radiography, Tomography
+Energy range: 20-200 keV
+Access: On-site
+Operator: COMPRES/XSD
+Status: Yellow
