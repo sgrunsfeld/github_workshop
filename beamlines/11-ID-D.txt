@@ -1,0 +1,6 @@
+Disciplines: Environmental Science, Materials Science, Physics
+Techniques: High-energy x-ray diffraction, X-ray total scattering, Pair distribution function, Grazing incidence diffraction
+Energy range: 26-120 keV
+Access: On-site
+Operator: XSD
+Status: Red
