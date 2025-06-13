@@ -1,0 +1,6 @@
+Disciplines: Materials Science, Physics
+Techniques: Magnetic x-ray scattering, Anomalous and resonant scattering, General diffraction, Grazing incidence diffraction
+Energy range: 4-38 keV
+Access: On-site, Remote
+Operator: XSD
+Status: Red
