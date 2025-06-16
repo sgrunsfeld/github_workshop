@@ -1,0 +1,6 @@
+Disciplines: Environmental Science, GeoScience
+Techniques: Tomography, High-pressure diamond anvil cell, High-pressure multi-anvil press
+Energy range: 4.5-100 keV
+Access: On-site
+Operator: GSECARS
+Status: Yellow
