@@ -1,0 +1,6 @@
+Disciplines: Chemistry, Environmental Science, Materials Science
+Techniques: X-ray absorption fine structure
+Energy range: 3.9-32 keV, 3.9-35 keV
+Access: On-site, Remote, Mail-in
+Operator: XSD
+Status: Red
