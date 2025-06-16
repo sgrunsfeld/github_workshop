@@ -1,0 +1,6 @@
+Disciplines: Chemistry, GeoScience, Materials Science, Physics, Polymer Science
+Techniques: Microdiffraction, High-pressure diamond anvil cell, High-pressure diamond anvil cell single crystal
+Energy range: 18-50 keV
+Access: On-site, Remote
+Operator: HPCAT-XSD
+Status: Green
