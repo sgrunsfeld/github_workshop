@@ -1,0 +1,6 @@
+Disciplines: Life Sciences
+Techniques: Macromolecular crystallography, Multi-wavelength anomalous dispersion, Single-wavelength anomalous dispersion
+Energy range: 6-18.5 keV
+Access: On-site, Remote, Mail-in
+Operator: XSD
+Status: Red
