@@ -1,6 +1,0 @@
-Disciplines: Catalysis, Chemistry, Environmental Science, Materials Science, Physics
-Techniques: X-ray absorption fine structure, X-ray absorption near-edge structure
-Energy range: 2.1-40 keV
-Access: On-site, Remote, Mail-in
-Operator: XSD
-Status: Red

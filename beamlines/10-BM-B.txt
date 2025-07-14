@@ -1,6 +1,0 @@
-Disciplines: Chemistry, Environmental Science, Materials Science, Physics
-Techniques: X-ray absorption fine structure, Time-resolved x-ray absorption fine structure, Microfluorescence
-Energy range: 4-33 keV
-Access: On-site, Remote, Mail-in, Observer, Beamline staff
-Operator: MR-CAT
-Status: Red

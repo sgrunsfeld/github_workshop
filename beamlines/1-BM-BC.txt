@@ -1,6 +1,0 @@
-Disciplines: Materials Science, Physics
-Techniques: Optics testing, Detector testing, Topography, Wavefront interferometry, Coherence measurements
-Energy range: 6-30 keV, 50-120 keV
-Access: On-site, Remote, Observer, Beamline staff
-Operator: XSD
-Status: Yellow

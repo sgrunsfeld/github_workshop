@@ -1,6 +1,0 @@
-Disciplines: Chemistry, Environmental Science, Life Sciences, Materials Science
-Techniques: Fluorescence spectroscopy
-Energy range: 9-18 keV
-Access: On-site, Mail-in, Beamline staff
-Operator: XSD
-Status: Red

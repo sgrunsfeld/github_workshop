@@ -1,6 +1,0 @@
-Disciplines: Chemistry, Materials Science, Physics
-Techniques: Tomography, High-energy x-ray diffraction, Transmission x-ray microscopy, High-energy diffraction microscopy (HEDM), High-energy small-angle x-ray scattering (HE-SAXS)
-Energy range: 35-120 keV
-Access: On-site
-Operator: XSD
-Status: Red

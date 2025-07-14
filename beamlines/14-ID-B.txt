@@ -1,6 +1,0 @@
-Disciplines: Life Sciences
-Techniques: Time-resolved crystallography, Laue crystallography, Serial crystallography, Macromolecular crystallography, Time-resolved x-ray scattering, Small-angle x-ray scattering, Wide-angle x-ray scattering
-Energy range: 9-15 keV
-Access: On-site
-Operator: BioCARS
-Status: Red

@@ -1,6 +1,0 @@
-Disciplines: Life Sciences
-Techniques: Fiber diffraction, Small-angle x-ray scattering, Time-resolved x-ray scattering, BioSAXS/BioSANS, Microdiffraction
-Energy range: 5-16 keV
-Access: On-Site, Remote, Mail-in
-Operator: BIO-CAT
-Status: Green

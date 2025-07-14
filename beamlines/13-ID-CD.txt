@@ -1,6 +1,0 @@
-Disciplines: Environmental Science, GeoScience
-Techniques: Surface diffraction, X-ray standing waves, Microdiffraction, X-ray absorption fine structure, High-pressure diamond anvil cell, High-ressure multi-anvil press, X-ray emission spectroscopy
-Energy range: 4.9-45 keV, 10-75 keV
-Access: On-site
-Operator: GSECARS
-Status: Yellow

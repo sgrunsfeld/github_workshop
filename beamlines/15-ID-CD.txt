@@ -1,6 +1,0 @@
-Disciplines: Chemistry, Materials Science
-Techniques: Anomalous small angle x-ray scattering, High-pressure diamond anvil cell single crystal, Liquid interface scattering, Resonant diffraction (DAFS)-single crystal, Photo-crystallography, Liquid interface spectroscopy, Single-crystal diffraction
-Energy range: N/A
-Access: On-site
-Operator: ChemMatCARS
-Status: Red

@@ -1,6 +1,0 @@
-Disciplines: Life Sciences
-Techniques: Macromolecular crystallography, Multi-wavelength anomalous dispersion, Microbeam, Single-wavelength anomalous dispersion, Large unit cell crystallography, Subatomic (<0.85 Å) resolution
-Energy range: 6-20 keV
-Access: Mail-in
-Operator: IMCA-CAT
-Status: Red

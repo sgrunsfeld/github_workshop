@@ -1,6 +1,0 @@
-Disciplines: Catalysis, Chemistry, Environmental Science, Materials Science, Physics, Polymer Science
-Techniques: X-ray absorption fine structure, Small-angle x-ray scattering, Wide-angle x-ray scattering
-Energy range: 4.5-20 keV, 10-40 keV
-Access: On-site, Remote, Mail-in
-Operator: XSD
-Status: Green

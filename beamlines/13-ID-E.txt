@@ -1,6 +1,0 @@
-Disciplines: Environmental Science, GeoScience
-Techniques: Micro x-ray absorption fine structure, Microdiffraction, Fluorescence spectroscopy, Microfluorescence
-Energy range: 2.4-28 keV, 5.4-28 keV
-Access: On-site
-Operator: GSECARS
-Status: Yellow

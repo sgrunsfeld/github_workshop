@@ -1,6 +1,0 @@
-Disciplines: GeoScience, Materials Science, Physics, Polymer Science
-Techniques: High-pressure multi-anvil press, High-pressure diamond anvil cell single crystal, White Laue single crystal diffraction, Radiography, Pair distribution function, Microdiffraction, Tomography
-Energy range: 6-60 keV
-Access: On-site, Beamline staff
-Operator: HPCAT-XSD
-Status: Red

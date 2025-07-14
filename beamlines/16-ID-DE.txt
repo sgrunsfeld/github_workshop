@@ -1,6 +1,0 @@
-Disciplines: Chemistry, GeoScience, Materials Science, Physics, Polymer Science
-Techniques: High pressure x-ray raman spectroscopy, High pressure x-ray non-resonant and resonant emission, High-energy diffraction microscopy (HEDM), High-pressure diamond anvil cell, Phase contrast imaging, Inelastic x-ray scattering (1 eV resolution), X-ray absorption fine structure
-Energy range: 4.5-60 keV, 10-30 keV
-Access: N/A
-Operator: HPCAT-XSD
-Status: Red

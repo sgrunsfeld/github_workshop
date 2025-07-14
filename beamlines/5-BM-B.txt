@@ -1,6 +1,0 @@
-Disciplines: Catalysis, Chemistry, Environmental Science, Materials Science, Polymer Science
-Techniques: X-ray absorption fine structure, High-energy x-ray diffraction, General diffraction, X-ray absorption near-edge structure
-Energy range: 4.5-25 keV, 4.5-80 keV
-Access: On-site, Mail-in
-Operator: DND-CAT
-Status: Red

@@ -1,6 +1,0 @@
-Disciplines: Chemistry, Materials Science, Physics, Polymer Science
-Techniques: Small-angle x-ray scattering, Wide-angle x-ray scattering, Ultra-small-angle x-ray scattering, Coherent x-ray scattering, Anomalous small angle x-ray scattering, Grazing incidence small-angle scattering
-Energy range: 7-38 keV, 10-40 keV
-Access: On-site
-Operator: XSD
-Status: Green

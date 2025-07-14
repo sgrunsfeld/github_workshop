@@ -1,6 +1,0 @@
-Disciplines: Materials Science, Physics
-Techniques: Magnetic circular dichroism, Magnetic x-ray scattering, High pressure resonant/magnetic scattering, Dichroic ptychography, High pressure x-ray magnetic circular dichroism, X-ray linear dichroism
-Energy range: 2.7-27 keV
-Access: On-site, Remote
-Operator: XSD
-Status: Red
