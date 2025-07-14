@@ -1,3 +1,5 @@
 Building ID: GA
 Official Building Name: GRL Annex
-Address: 1318 Maple St., Bldg. #4
+Address: 1318 Maple Street, Bldg. #4
+Notes: Our lab is in here!
+Lab: GRLA 111
