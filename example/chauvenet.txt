@@ -2,3 +2,4 @@ Building ID: CH
 Official Building Name: Chauvenet Hall
 Address: 1015 14th Street
 Notes: Our offices are in here!
+Offices: CH 263 and 261
