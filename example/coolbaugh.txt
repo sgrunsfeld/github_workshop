@@ -1,3 +1,4 @@
 Building ID: CO
 Official Building Name: Coolbaugh Hall
-Address: 1012 14th St.
+Address: 1012 14th Street
+Notes: Chemistry building
