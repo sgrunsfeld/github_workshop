@@ -11,3 +11,9 @@ In the upper right of the GitHub, regardless of what page you're on, there will 
 Click "+" --> "New repository."
 
 Then, you will need to name your new repository, add a short description, and select whether it is public or private. Additionally, make sure the option "Add a README file" under the "Initialize this repository with:" header is checked. You can then click "Create repository."
+
+---
+### Upload files
+In the main branch of the repository, click the "+" button next to the green "Code" button and select "Upload files." You can then drag and drop the file directory you created.
+
+You have now pushed a local repository to a remote repository hosted on GitHub!
